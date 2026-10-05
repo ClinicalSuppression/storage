@@ -1,0 +1,33 @@
+{
+  "HosterName": "Clinical_Suppression",
+  "ServerName": "Omega Ark - PvE - 5x - Lost Island",
+  "ClusterName": "Omega Ark",
+  "IconUrl": "https://justpaste.it/4z8r1",
+  "ServerDescription":
+  {
+    "MaxDinoLvl": 150,
+    "Taming": 10,
+    "Experience": 5,
+    "Harvesting": 5,
+    "Breeding": 10,
+    "Stacks": 100,
+    "Other":
+    [
+        "Lost Island of the Omega Ark cluster."
+    ]
+  },
+  "ClusterDescription":
+  {
+    "MaxDinoLvl": 150,
+    "Taming": 10,
+    "Experience": 5,
+    "Harvesting": 5,
+    "Breeding": 10,
+    "Stacks": 100,
+    "Other":
+    [
+        "I run it for personal use, but I wanted to share it with the ASE community, as well. 24/7 up-time, except for maintenance and changes. Hosted on an old dual E5-Xeon 2680 server with 128 GBs of RAM and a 1 Gb/sec fiber connection.",
+        "Contact: chrispm84@gmail.com"
+    ]
+  }
+}
